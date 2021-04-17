@@ -1,4 +1,4 @@
-### Hi there 
+### Hi there <img src="https://github.com/LarryJunior21/larryjunior21/blob/911881bbf0af88d8688a0d166b67adfa8ed8d366/wave.gif" width="30px">
 
 <!--
 **LarryJunior21/larryjunior21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
