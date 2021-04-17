@@ -1,8 +1,8 @@
 ### Hi there <img src="https://github.com/LarryJunior21/larryjunior21/blob/911881bbf0af88d8688a0d166b67adfa8ed8d366/wave.gif" width="30px">
 
-📫 How to reach me: [![LinkedIn][<img src="https://github.com/LarryJunior21/larryjunior21/blob/911881bbf0af88d8688a0d166b67adfa8ed8d366/wave.gif" width="30px">]][1]
+📫 How to reach me: [![LinkedIn][1.1]][1]
 
-[1.1]: https://github.com/LarryJunior21/larryjunior21/blob/35d7d824f092f433472f7edf3455a39c979a9993/a.png
+[1.1]: https://github.com/LarryJunior21/larryjunior21/blob/dfac4a39ee5524218ad88d24c8f59b1beeee45ae/linkedin.png
 [1]: https://www.linkedin.com/in/larryjunior2121/
 
 <!--
