@@ -2,7 +2,7 @@
 
 📫 How to reach me: [![LinkedIn][1.1]][3]
 
-[1.1]: https://github.com/LarryJunior21/larryjunior21/blob/35d7d824f092f433472f7edf3455a39c979a9993/a.png
+[1.1]: <img src="https://github.com/LarryJunior21/larryjunior21/blob/35d7d824f092f433472f7edf3455a39c979a9993/a.png" width="30px">
 
 <!--
 **LarryJunior21/larryjunior21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
