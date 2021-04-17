@@ -1,8 +1,9 @@
 ### Hi there <img src="https://github.com/LarryJunior21/larryjunior21/blob/911881bbf0af88d8688a0d166b67adfa8ed8d366/wave.gif" width="30px">
 
-📫 How to reach me: [![LinkedIn][1.1]][https://www.linkedin.com/in/larryjunior2121/]
+📫 How to reach me: [![LinkedIn][1.1]][1]
 
 [1.1]: https://github.com/LarryJunior21/larryjunior21/blob/35d7d824f092f433472f7edf3455a39c979a9993/a.png
+[1]: https://www.linkedin.com/in/larryjunior2121/
 
 <!--
 **LarryJunior21/larryjunior21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
