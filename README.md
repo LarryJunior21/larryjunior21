@@ -15,6 +15,12 @@
 ## &#x1f4c8; GitHub Stats
 <p display="flex"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=larryjunior21&show_icons=true&locale=en&layout=compact&theme=algolia" alt="larryjunior21" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=larryjunior21&show_icons=true&theme=algolia" alt="larryjunior21" /></p>
+<table>
+  <tr>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=larryjunior21&show_icons=true&locale=en&layout=compact&theme=algolia"/></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=larryjunior21&show_icons=true&theme=algolia"/></td>
+  </tr>
+</table>
 
 [1.1]: https://github.com/LarryJunior21/larryjunior21/blob/dfac4a39ee5524218ad88d24c8f59b1beeee45ae/linkedin.png
 [1]: https://www.linkedin.com/in/larryjunior2121/
