@@ -9,8 +9,6 @@
 </p>
 
 ## 🔧 Technologies & Tools
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=110940)
 ![](https://img.shields.io/badge/Editor-PhpStorm-informational?style=flat&logo=phpstorm&logoColor=white&color=110940)
 ![](https://img.shields.io/badge/Code-Php-informational?style=flat&logo=php&logoColor=white&color=110940)
@@ -22,8 +20,7 @@
 ![](https://img.shields.io/badge/Tools-MariaDB-informational?style=flat&logo=mariadb&logoColor=white&color=110940)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=110940)
 ![](https://img.shields.io/badge/Tools-Composer-informational?style=flat&logo=composer&logoColor=white&color=110940)
-![](https://img.shields.io/badge/Agile-Azure_DevOps-informational?style=flat&logo=azuredevops&logoColor=white&color=110940) 
-</p>
+![](https://img.shields.io/badge/Agile-Azure_DevOps-informational?style=flat&logo=azuredevops&logoColor=white&color=110940)
 
 ## &#x1f4c8; GitHub Stats
   <tr>
