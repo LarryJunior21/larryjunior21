@@ -6,6 +6,9 @@
 [1]: https://www.linkedin.com/in/larryjunior2121/
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=larryjunior21)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=larryjunior21&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **LarryJunior21/larryjunior21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
