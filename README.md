@@ -14,9 +14,7 @@
 
 ## &#x1f4c8; GitHub Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=larryjunior21&show_icons=true&locale=en&layout=compact&theme=algolia" alt="larryjunior21" />
-
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=larryjunior21&show_icons=true&theme=algolia" alt="larryjunior21" />
-
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=larryjunior21&theme=algolia" alt="larryjunior21" /></p>
 
 [1.1]: https://github.com/LarryJunior21/larryjunior21/blob/dfac4a39ee5524218ad88d24c8f59b1beeee45ae/linkedin.png
