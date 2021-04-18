@@ -4,8 +4,9 @@
 
 ## 📫 You can reach me on
 <p align="left">
-<a href="https://linkedin.com/in/larryjunior2121" target="blank"><img align="center" src="https://github.com/LarryJunior21/larryjunior21/blob/27de4d91885a22555f813ee427cba1cce2bcedca/linkedin.png" alt="larryjunior2121" height="30" width="40" /></a>
-<a href="https://instagram.com/larejuno" target="blank"><img align="center" src="https://github.com/LarryJunior21/larryjunior21/blob/446345a5031baafb5b11290a4cf3b99405eb580e/instagram.png" alt="larejuno" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/larryjunior2121" target="blank"><img align="center" src="https://github.com/LarryJunior21/larryjunior21/blob/27de4d91885a22555f813ee427cba1cce2bcedca/linkedin.png" alt="larryjunior2121" height="40" width="40" /></a>
+&nbsp;
+<a href="https://instagram.com/larejuno" target="blank"><img align="center" src="https://github.com/LarryJunior21/larryjunior21/blob/446345a5031baafb5b11290a4cf3b99405eb580e/instagram.png" alt="larejuno" height="40" width="40" /></a>
 </p>
 
 ## 🔧 Technologies & Tools
