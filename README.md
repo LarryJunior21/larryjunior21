@@ -1,6 +1,6 @@
 <img src="https://github.com/LarryJunior21/larryjunior21/blob/2f3a3ea7c3c2697ce77907f8b4b08f00b1d58d74/header.png">
 
-### Hello, what's up <img src="https://github.com/LarryJunior21/larryjunior21/blob/911881bbf0af88d8688a0d166b67adfa8ed8d366/wave.gif" width="30px">
+# Hello, what's up <img src="https://github.com/LarryJunior21/larryjunior21/blob/911881bbf0af88d8688a0d166b67adfa8ed8d366/wave.gif" width="30px">
 
 ## 📫 You can reach me on
 <p align="left">
@@ -28,6 +28,14 @@
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=larryjunior21&hide=html,tex&show_icons=true&locale=en&layout=compact&theme=algolia"/></td>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=larryjunior21&show_icons=true&theme=algolia"/></td>
   </tr>
+  <a href="https://github.com/MartinHeinz/python-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<a href="https://github.com/MartinHeinz/go-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> 
 
 
 [1.1]: https://github.com/LarryJunior21/larryjunior21/blob/dfac4a39ee5524218ad88d24c8f59b1beeee45ae/linkedin.png
