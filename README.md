@@ -24,16 +24,11 @@
 ![](https://img.shields.io/badge/Agile-Azure_DevOps-informational?style=flat&logo=azuredevops&logoColor=white&color=110940)
 
 ## &#x1f4c8; GitHub Stats
-  <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=larryjunior21&hide=html,tex&show_icons=true&locale=en&layout=compact&theme=algolia"/></td>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=larryjunior21&show_icons=true&theme=algolia"/></td>
-  </tr>
-  <a href="https://github.com/MartinHeinz/python-project-blueprint">
+<a href="https://github.com/LarryJunior21/LarryJunior21">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=larryjunior21&hide=html,tex&show_icons=true&locale=en&layout=compact&theme=algolia" />
 </a>
 
-
-<a href="https://github.com/MartinHeinz/go-project-blueprint">
+<a href="https://github.com/LarryJunior21/LarryJunior21">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=larryjunior21&show_icons=true&theme=algolia" />
 </a> 
 
