@@ -11,7 +11,7 @@
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=110940)
-![](https://img.shields.io/badge/Editor-PhpStorm-informational?style=flat&logo=phpstorm&logoColor=white&color=110940)
+![](https://img.shields.io/badge/IDE-PhpStorm-informational?style=flat&logo=phpstorm&logoColor=white&color=110940)
 ![](https://img.shields.io/badge/Code-Php-informational?style=flat&logo=php&logoColor=white&color=110940)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=110940)
 ![](https://img.shields.io/badge/Code-Magento-informational?style=flat&logo=magento&logoColor=white&color=110940)
