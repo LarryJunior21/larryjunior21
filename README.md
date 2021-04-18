@@ -25,7 +25,7 @@
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/LarryJunior21/LarryJunior21">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=larryjunior21&hide=html,tex&show_icons=true&locale=en&layout=compact&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=larryjunior21&hide=html,tex&show_icons=true&locale=en&theme=algolia" />
 </a>
 
 <a href="https://github.com/LarryJunior21/LarryJunior21">
