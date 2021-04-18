@@ -1,4 +1,4 @@
-[![Header](https://github.com/LarryJunior21/larryjunior21/blob/0624c84bff5ba9a55c3db75f286dcb4141bb17fd/header.png "Header")]()
+<img src="https://github.com/LarryJunior21/larryjunior21/blob/911881bbf0af88d8688a0d166b67adfa8ed8d366/wave.gif" display="block" margin="auto">
 
 ### Hi there <img src="https://github.com/LarryJunior21/larryjunior21/blob/911881bbf0af88d8688a0d166b67adfa8ed8d366/wave.gif" width="30px">
 
