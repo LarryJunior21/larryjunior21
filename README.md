@@ -28,7 +28,7 @@ I'm a Magento developer currently working at BizCommerce, I'm still learning and
 <a href="https://github.com/LarryJunior21/LarryJunior21">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=larryjunior21&hide=html,less&show_icons=true&locale=en&theme=algolia" />
 </a>
-
+&nbsp;
 <a href="https://github.com/LarryJunior21/LarryJunior21">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=larryjunior21&show_icons=true&theme=algolia" />
 </a> 
