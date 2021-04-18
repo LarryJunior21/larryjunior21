@@ -25,8 +25,8 @@
 
 ## &#x1f4c8; GitHub Stats
   <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=larryjunior21&show_icons=true&locale=en&layout=compact&theme=algolia"/></td>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=larryjunior21&show_icons=true&theme=algolia&hide=html"/></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=larryjunior21&hide=html,tex&show_icons=true&locale=en&layout=compact&theme=algolia"/></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=larryjunior21&show_icons=true&theme=algolia"/></td>
   </tr>
 
 
