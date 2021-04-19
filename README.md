@@ -1,7 +1,7 @@
 <img src="https://github.com/LarryJunior21/larryjunior21/blob/2f3a3ea7c3c2697ce77907f8b4b08f00b1d58d74/header.png">
 
 # Hello, what's up <img src="https://github.com/LarryJunior21/larryjunior21/blob/911881bbf0af88d8688a0d166b67adfa8ed8d366/wave.gif" width="30px">
-I'm a Magento developer currently working at BizCommerce, I'm still learning and always will be. You will not see that many commits here due to private projects of my work, but I have plans to clear the dust and bring the greenish squares back to life XD.
+I'm a Magento developer currently working at BizCommerce, I'm still learning and always will be. You will not see that many commits here due to private projects of my work :)
 
 ## 📫 You can reach me on
 <p align="left">
