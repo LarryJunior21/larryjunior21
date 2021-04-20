@@ -10,7 +10,7 @@ I'm a Magento developer currently working at BizCommerce, I'm still learning and
 <a href="https://instagram.com/larejuno" target="blank"><img align="center" src="https://github.com/LarryJunior21/larryjunior21/blob/446345a5031baafb5b11290a4cf3b99405eb580e/instagram.png" alt="larejuno" height="40" width="40" /></a>
 </p>
 
-## 🔧 Technologies & Tools
+## 🔧 Current Technologies & Tools that I'm using
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=110940)
 ![](https://img.shields.io/badge/IDE-PhpStorm-informational?style=flat&logo=phpstorm&logoColor=white&color=110940)
 ![](https://img.shields.io/badge/Code-Php-informational?style=flat&logo=php&logoColor=white&color=110940)
