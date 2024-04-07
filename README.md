@@ -14,6 +14,7 @@ Full-Stack developer currently working at Accenture Australia...
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
 ![](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
@@ -31,14 +32,11 @@ Full-Stack developer currently working at Accenture Australia...
 ![](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ## &#x1f4c8; GitHub Stats
-<a href="https://github.com/LarryJunior21/LarryJunior21">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=larryjunior21&hide=html,less,php&show_icons=true&locale=en&theme=tokyonight" />
-</a>
+<div>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=larryjunior21&hide=html,less,php&show_icons=true&locale=en&theme=tokyonight" />
 &nbsp;&nbsp;
-<a href="https://github.com/LarryJunior21/LarryJunior21">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=larryjunior21&show_icons=true&theme=tokyonight" />
-</a> 
-
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=larryjunior21&show_icons=true&theme=tokyonight" />
+</div>
 
 [1.1]: https://github.com/LarryJunior21/larryjunior21/blob/dfac4a39ee5524218ad88d24c8f59b1beeee45ae/linkedin.png
 [1]: https://www.linkedin.com/in/larryjunior2121/
