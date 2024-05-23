@@ -1,7 +1,6 @@
-<img src="https://github.com/LarryJunior21/larryjunior21/blob/2f3a3ea7c3c2697ce77907f8b4b08f00b1d58d74/header.png">
 
 # Hey <img src="https://github.com/LarryJunior21/larryjunior21/blob/911881bbf0af88d8688a0d166b67adfa8ed8d366/wave.gif" width="30px">
-Full-Stack developer currently working at Accenture Australia...
+Full-Stack developer currently working @ Accenture Australia...
 
 ## 📫 You can reach me on
 <p align="left">
