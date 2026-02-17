@@ -1,6 +1,7 @@
 
 # Hey <img src="https://github.com/LarryJunior21/larryjunior21/blob/911881bbf0af88d8688a0d166b67adfa8ed8d366/wave.gif" width="30px">
 Full-Stack developer currently working @ Accenture Australia...
+<br>https://larryjunior.vercel.app/
 
 ## 📫 You can reach me on
 <p align="left">
@@ -35,10 +36,10 @@ Full-Stack developer currently working @ Accenture Australia...
 
 ## &#x1f4c8; GitHub Stats
 <div>
-[![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=LarryJunior21)](https://github.com/pranesh-2005/github-readme-stats-fast)
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=larryjunior21&hide=html,less,php&show_icons=true&locale=en&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=LarryJunior21&hide=html,less,php&show_icons=true&locale=en&theme=tokyonight" />
 &nbsp;&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=larryjunior21&show_icons=true&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=larryjunior21&hide=html,less,php&show_icons=true&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=LarryJunior21&repo=Portfolio&show_icons=true&theme=tokyonight" />
 </div>
 
 [1.1]: https://github.com/LarryJunior21/larryjunior21/blob/dfac4a39ee5524218ad88d24c8f59b1beeee45ae/linkedin.png
