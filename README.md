@@ -35,6 +35,7 @@ Full-Stack developer currently working @ Accenture Australia...
 
 ## &#x1f4c8; GitHub Stats
 <div>
+[![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=LarryJunior21)](https://github.com/pranesh-2005/github-readme-stats-fast)
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=larryjunior21&hide=html,less,php&show_icons=true&locale=en&theme=tokyonight" />
 &nbsp;&nbsp;
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=larryjunior21&show_icons=true&theme=tokyonight" />
