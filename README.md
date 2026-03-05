@@ -1,5 +1,5 @@
-### Full-Stack developer currently working @ Accenture Australia...
-<br>Portfolio: https://larryjunior.vercel.app/
+### Full-Stack developer | AI enthusiast
+Portfolio: https://larryjunior.vercel.app/
 
 ## You can reach me on
 <p align="left">
@@ -7,7 +7,7 @@
 </p>
 
 ## Current Technologies | Tools | OS that I'm using
-![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+![](https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=white)
 ![](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
