@@ -1,14 +1,12 @@
+### Full-Stack developer currently working @ Accenture Australia...
+<br>Portfolio: https://larryjunior.vercel.app/
 
-# Hey <img src="https://github.com/LarryJunior21/larryjunior21/blob/911881bbf0af88d8688a0d166b67adfa8ed8d366/wave.gif" width="30px">
-Full-Stack developer currently working @ Accenture Australia...
-<br>https://larryjunior.vercel.app/
-
-## 📫 You can reach me on
+## You can reach me on
 <p align="left">
 <a href="https://linkedin.com/in/larryjunior2121" target="blank"><img align="center" src="https://github.com/LarryJunior21/larryjunior21/blob/27de4d91885a22555f813ee427cba1cce2bcedca/linkedin.png" alt="larryjunior2121" height="40" width="40" /></a>
 </p>
 
-## 🔧 Current Technologies | Tools | OS that I'm using
+## Current Technologies | Tools | OS that I'm using
 ![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -22,7 +20,7 @@ Full-Stack developer currently working @ Accenture Australia...
 ![](https://img.shields.io/badge/Vue.js-41B883?style=for-the-badge&logo=vue.js&logoColor=white)
 
 
-## 🔧 What I already have worked with
+## What I already have worked with
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![](https://img.shields.io/badge/Adobe%20Commerce-red?style=for-the-badge&logo=adobe&logoColor=white)
