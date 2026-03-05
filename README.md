@@ -1,5 +1,6 @@
-### Full-Stack developer | AI enthusiast
-Portfolio: https://larryjunior.vercel.app/
+## Full-Stack developer | AI enthusiast
+### 5+ years of experience, worked with global clients, small to big teams. Used to any situation, passion for the profession.
+#### Portfolio: https://larryjunior.vercel.app/
 
 ## You can reach me on
 <p align="left">
