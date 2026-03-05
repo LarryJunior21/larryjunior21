@@ -37,8 +37,6 @@ Portfolio: https://larryjunior.vercel.app/
 <img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=LarryJunior21&hide=html,less,php&show_icons=true&locale=en&theme=tokyonight" />
 &nbsp;&nbsp;
 <img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=larryjunior21&hide=html,less,php&show_icons=true&theme=tokyonight" />
-<img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=LarryJunior21&repo=Portfolio&show_icons=true&theme=tokyonight" />
-</div>
 
 [1.1]: https://github.com/LarryJunior21/larryjunior21/blob/dfac4a39ee5524218ad88d24c8f59b1beeee45ae/linkedin.png
 [1]: https://www.linkedin.com/in/larryjunior2121/
